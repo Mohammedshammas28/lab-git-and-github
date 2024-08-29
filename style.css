@@ -1,4 +1,7 @@
 /* Change the color of the text from blue to red */
 p {
-    color: blue;
+    color: rgb(12, 1, 1);
+}
+h1{
+    color: rgb(171, 16, 16);
 }
